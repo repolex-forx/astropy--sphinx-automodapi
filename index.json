@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "sphinx-automodapi",
+  "versions": [
+    {
+      "commit": "330ef7db93f45c03ebb346be8d6984527379412b",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:08:41.236532+00:00"
+    }
+  ]
+}
