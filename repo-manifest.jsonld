@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/astropy/sphinx-automodapi/commit/330ef7db93f45c03ebb346be8d6984527379412b",
       "git:hexsha": "330ef7db93f45c03ebb346be8d6984527379412b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:08:41.235912+00:00"
     },
     {
       "@id": "https://repolex.ai/r/astropy/sphinx-automodapi/commit/bda6e7fa96f36b165d04550981a87a3f45b2737b",
